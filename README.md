@@ -26,4 +26,5 @@ Execute o comando a baixo para inicializar o servidor de desenvolvimento:
 ### Possíveis evolução
 
 1 - Buscar as issues de outros projetos no Github, e não somente do facebook/react.
+
 2 - Detalhar as issues dentro do próprio projeto, e não direcionar para o Github.
